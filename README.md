@@ -1,7 +1,5 @@
 ### Welcome to Taewan's Profile! 👋
 
-I am currently a student in Hanyang University, majoring Computer Science. 
-
 Please take a look at my pinned projects. Thank you!
 
 
